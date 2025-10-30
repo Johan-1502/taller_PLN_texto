@@ -29,4 +29,5 @@ TALLER_PLN_TEXTO/
 ├── Texto de prueba correcto.pdf
 └── Texto de prueba incorrecto.pdf
 ## --Uso y ejecución
-Ingresa al archivo Taller_PLN.ipynb
+Ingresa al archivo Taller_PLN.ipynb.
+En el panel de la parte superior del archivo en la esquina superior derecha, en el boton para seleccionar el Kernel de ejecución, debes seleccionar el entorno virtual venv (python X.X.X), para que el programa obtenga información de las dependencias instaladas.
